@@ -1,2 +1,3 @@
 # Steganography-App
-to hide message in images format 
+🔐 Advanced Steganography and Encryption Tool (with File Support & Device Binding)
+This project is a GUI-based steganography application built with PyQt5, allowing users to hide text messages and files of any type (e.g., PDFs, Word documents, videos) inside images using LSB (Least Significant Bit) steganography. All data is encrypted using AES encryption via Fernet, and enhanced with device-bound key derivation—ensuring that even if the secret key is leaked, decryption won't work on unauthorized machines. A sleek interface, particle effects, and built-in file attachment support make this tool both secure and user-friendly.
